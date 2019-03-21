@@ -23,7 +23,7 @@ public class Singlylist<T> extends Object {
 		return count;
 	}
 
-	public boolean equals(Object obj)// 比较相等
+	public boolean equals(Object obj)// 姣旇緝鐩哥瓑
 	{
 		if (this == obj)
 			return true;
